@@ -45,7 +45,7 @@ body {
   color: var(--blue-hover-color);
 }
 
-.is-active {
+.nav__link.is-active {
   color: var(--blue-hover-color);
 }
 
